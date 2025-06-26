@@ -1,0 +1,12 @@
+# Model weights
+yolo11n.pt
+
+# Datasets
+Construction Site Safety.v30-raw-images_latestversion.yolov11.zip
+Construction Site Safety/
+
+# Training outputs
+runs/
+
+# System files
+*.DS_Store
