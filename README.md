@@ -36,7 +36,7 @@ python PPE.py
 - Press `q` to quit the video window.
 
 ## Notes
-- If you see errors about missing modules, ensure you have activated the correct Python environment and installed all requirements.
+- If you see errors about missing modules, please make sure you have activated the correct Python environment and installed all requirements.
 - If you see errors about missing files, check that the video and model paths in `PPE.py` are correct.
 
 ## Project Structure
@@ -54,4 +54,3 @@ PPE detection/
 ```
 
 
-test test
